@@ -1,4 +1,3 @@
-package LibraryManagementSystem;
 
 import java.sql.*;
 import java.time.LocalDate;
